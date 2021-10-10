@@ -1,5 +1,6 @@
 package Java08;
 
+//Class05
 class CBox {
 	int length;
 	int width;
